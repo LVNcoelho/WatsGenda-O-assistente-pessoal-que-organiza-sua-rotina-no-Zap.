@@ -1,4 +1,4 @@
-# 🎙️ WatsGenda <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30" alt="WhatsApp"> — O Assistente Pessoal de Rotina via WhatsApp
+#  WatsGenda <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30" alt="WhatsApp"> — O Assistente Pessoal de Rotina via WhatsApp
 
 ## 📑 Índice
 *   [💡 Estratégia & Valor de Negócio](#-estratégia--valor-de-negócio)
