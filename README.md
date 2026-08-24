@@ -12,7 +12,7 @@ O **WatsGenda** foi criado para resolver um problema crítico de produtividade: 
 * [💡 Estratégia & Valor de Negócio](#-estratégia--valor-de-negócio)
 * [🛠️ Tech Stack & Escolhas Arquiteturais](#-tech-stack--escolhas-arquiteturais)
 * [🔄 Fluxo de Funcionamento](#-fluxo-de-funcionamento)
-* [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
+
 
 ---
 
