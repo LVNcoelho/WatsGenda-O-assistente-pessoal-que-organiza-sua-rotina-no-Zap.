@@ -1,7 +1,7 @@
 #  WatsGenda <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" height="30" alt="WhatsApp"> — O Assistente Pessoal de Rotina via WhatsApp
 
 
-> **Transforme áudios soltos no WhatsApp em compromissos organizados no seu banco de dados em segundos.**
+> **Transforme áudios soltos no WhatsApp e mensagens em compromissos organizados (Planner) no seu banco de dados em segundos.**
 
 O **WatsGenda** foi criado para resolver um problema crítico de produtividade: o desperdício de tempo e a perda de informações que ocorrem no fluxo contínuo de conversas e áudios do dia a dia. Ao integrar inteligência artificial multimodal com um backend assíncrono de altíssima performance, o sistema escuta, entende e estrutura compromissos automaticamente.
 
